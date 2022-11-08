@@ -1,0 +1,15 @@
+.numbers {
+	display: flex;
+	justify-content: space-around;
+    background-color: blueviolet;
+}
+
+.number {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 4rem;
+	height: 4rem;
+	background-color: orange;
+    color: white;
+}
